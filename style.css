@@ -1,0 +1,32 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #9FB3DF;
+  text-align: center;
+  padding: 20px;
+  margin: ;
+}
+
+#div1 {
+  font-family: 'Arial', sans-serif;
+  background-color: lightgoldenrodyellow;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+#div2 {
+  font-family: 'Arial', sans-serif;
+  background-color: lightsalmon;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+
+#div3 {
+  font-family: 'Arial', sans-serif;
+  background-color: lightpink;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
